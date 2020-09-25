@@ -1,8 +1,8 @@
 # Pharo_Examples
 Ejemplos para aplicar a desarrollo de aplicaciones con Pharo.
-- [] imagenes:
+- [ ] imagenes:
   - uso de ImageMorp
-- [] Archivos:
+- [ ] Archivos:
   - manipuacion de archivos .txt
   - peticiones de imagenes http
   
